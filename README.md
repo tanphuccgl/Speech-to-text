@@ -30,6 +30,7 @@ Chúng tôi rất hoan nghênh sự đóng góp từ cộng đồng. Nếu bạn
 Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào, vui lòng liên hệ:
 - Email: phamnguyentanphucgl@gmail.com
 - Fb: [@tanphuc2k](https://www.facebook.com/tanphuc2k)
+- Youtube: [@TANPHUC2k](https://www.youtube.com/watch?v=fN_YjkR-CMc)
 
 ## Giấy Phép
 Dự án này được phân phối dưới Giấy Phép MIT. Xem [LICENSE](LICENSE) để biết thêm thông tin.
